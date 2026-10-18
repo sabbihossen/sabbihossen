@@ -1,4 +1,3 @@
-
 <!-- ═══════════════ PROFILE HEADER ═══════════════ -->
 
 <h1 align="center">⚡ SHEIKH SABBIR HOSSAIN</h1>
@@ -44,6 +43,26 @@ Learning   : Penetration Testing & Security Research
 - 🤖 Exploring AI-assisted security testing and LLM security.
 - 📚 Sharing cybersecurity learning and projects on GitHub.
 
+## 💻 Programming & Scripting Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bash" alt="HTML, CSS, JavaScript, PHP, Python, MySQL and Bash"/>
+</p>
+
+### 📊 Current Skill Levels
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-60%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 60%"/>
+  <img src="https://img.shields.io/badge/CSS-30%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 30%"/>
+  <img src="https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 50%"/>
+  <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 30%"/>
+  <img src="https://img.shields.io/badge/PHP-25%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 25%"/>
+  <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-40%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL and MySQL 40%"/>
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-40%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash and Shell Scripting 40%"/>
+</p>
+
+> Skill percentages are self-assessed estimates of current proficiency, not standardized test scores.
+
 ## 🛠️ Security Arsenal
 
 ### 🐧 Operating Systems & Development
@@ -66,6 +85,17 @@ Learning   : Penetration Testing & Security Research
   <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/TCPdump-Packet%20Analysis-333333?style=for-the-badge" alt="TCPdump"/>
   <img src="https://img.shields.io/badge/TShark-Network%20Analysis-333333?style=for-the-badge" alt="TShark"/>
+</p>
+
+### 🔎 Reconnaissance & Attack Surface Discovery
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Subfinder-Subdomain%20Discovery-111111?style=for-the-badge&logo=linux&logoColor=white" alt="Subfinder"/>
+  <img src="https://img.shields.io/badge/Assetfinder-Asset%20Discovery-333333?style=for-the-badge" alt="Assetfinder"/>
+  <img src="https://img.shields.io/badge/Sublist3r-Subdomain%20Enumeration-444444?style=for-the-badge" alt="Sublist3r"/>
+  <img src="https://img.shields.io/badge/DNSx-DNS%20Resolution-1565C0?style=for-the-badge" alt="DNSX"/>
+  <img src="https://img.shields.io/badge/CertHunt-Certificate%20Recon-263238?style=for-the-badge" alt="CertHunt"/>
+  <img src="https://img.shields.io/badge/Interactsh-OAST%20Testing-6A1B9A?style=for-the-badge" alt="Interactsh"/>
 </p>
 
 ### 🕸️ Web Application & API Security
@@ -180,4 +210,3 @@ Learning   : Penetration Testing & Security Research
 <p align="center">
   <i>All security testing is performed in authorized environments.</i>
 </p>
-
