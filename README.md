@@ -1,238 +1,210 @@
- 
-<!-- ═════════════════════ PROFILE HEADER ═════════════════════ -->
+<!-- ═══════════════ PROFILE HEADER ═══════════════ -->
 
-<h1 align="center">⚡ SHEIKH SABBIR HOSSAIN ⚡</h1>
+<h1 align="center">⚡ SHEIKH SABBIR HOSSAIN</h1>
 
-<h3 align="center">Cybersecurity | Web & API Security | Reconnaissance</h3>
+<h3 align="center">Offensive Security Researcher | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Web+Application+Security;API+Security+Testing;Attack+Surface+Discovery;Penetration+Testing+Labs;AI+%26+LLM+Security+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=ETHICAL+HACKING;WEB+APPLICATION+SECURITY;NETWORK+RECONNAISSANCE;API+SECURITY;AI+SECURITY+RESEARCH" alt="Cybersecurity typing animation"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/sabbihossen">
-    <img src="https://img.shields.io/badge/GitHub-sabbihossen-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sheikh-sabbir-hossain-661157368/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/GitHub-sabbihossen-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.youtube.com/@PatientHacker">
-    <img src="https://img.shields.io/badge/YouTube-Patient_Hacker-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Patient%20Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sheikh-sabbir-hossain-661157368/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@sabbirhossensk10">
-    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sabbihossen&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Sheikh Sabbir Hossain**, a cybersecurity learner focused on practical security testing, reconnaissance, and offensive security.
+```text
+Name       : Sheikh Sabbir Hossain
+Role       : Cybersecurity Learner
+Focus      : Offensive Security & Ethical Hacking
+Interests  : Web Security, API Security & AI Security
+Learning   : Penetration Testing & Security Research
+```
 
-- 🔎 Practicing web application and API security testing.
-- 🌐 Working on reconnaissance and attack surface discovery in authorized environments.
-- 🧪 Practicing vulnerability identification through security labs, CTFs, and vulnerable applications.
-- 🛠️ Using Linux/Kali Linux and security tools for hands-on learning and testing.
-- 🤖 Exploring AI-assisted security testing and AI/LLM security.
-- 📚 Completed cybersecurity training through Ostad and continue developing practical skills.
-- 📝 Documenting learning, tools, and security projects on GitHub.
+- 🎓 Completed the AI-Driven Cyber Security & Ethical Hacking training track at Ostad.
+- 🔎 Practicing network reconnaissance and attack surface discovery.
+- 🌐 Exploring web application security and API penetration testing.
+- 🐧 Working with Linux, Kali Linux and security tools.
+- 🧪 Practicing in authorized labs, CTFs and vulnerable applications.
+- 🤖 Exploring AI-assisted security testing and LLM security.
+- 📝 Documenting cybersecurity labs, research and technical projects.
+- 🚀 Building a portfolio focused on offensive security and vulnerability assessment.
 
-**Current focus:** Web Security · API Security · Reconnaissance · VAPT · AI & LLM Security
+## 💻 Programming & Scripting
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bash" alt="HTML, CSS, JavaScript, PHP, Python, MySQL and Bash"/>
+</p>
 
-## 🧪 Practical Security Work
+<p align="center">
+  HTML · CSS · JavaScript · PHP · Python · SQL / MySQL · Bash / Shell Scripting
+</p>
 
-| Area | Practical Activities |
-|---|---|
-| Reconnaissance | Subdomain enumeration, live-host discovery, URL collection, and attack surface mapping |
-| Web Security | Practicing vulnerability testing in authorized labs and vulnerable applications |
-| API Security | Exploring API endpoints, HTTP methods, authentication, authorization, and security misconfigurations |
-| Linux & Tools | Using Kali Linux, command-line tools, and security testing workflows |
-| AI Security | Exploring AI-assisted testing and AI/LLM security concepts |
-| Reporting | Documenting methodology, observations, evidence, and project workflows |
+## 🛠️ Security Arsenal
 
-*The activities above describe practical learning and research. They should not be interpreted as paid employment or verified client engagements.*
+### 🐧 Operating Systems & Development
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,docker" alt="Linux, Bash, Python, Git, GitHub, VS Code and Docker"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux" alt="WSL"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware" alt="VMware"/>
+</p>
+
+### 🌐 Network Reconnaissance & Analysis
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-1679A7?style=for-the-badge" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Wireshark-Traffic%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/TCPdump-Packet%20Analysis-333333?style=for-the-badge" alt="TCPdump"/>
+  <img src="https://img.shields.io/badge/TShark-Network%20Analysis-333333?style=for-the-badge" alt="TShark"/>
+</p>
+
+### 🔎 Reconnaissance & Attack Surface Discovery
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Subfinder-Subdomain%20Discovery-111111?style=for-the-badge" alt="Subfinder"/>
+  <img src="https://img.shields.io/badge/Assetfinder-Asset%20Discovery-333333?style=for-the-badge" alt="Assetfinder"/>
+  <img src="https://img.shields.io/badge/Sublist3r-Subdomain%20Enumeration-444444?style=for-the-badge" alt="Sublist3r"/>
+  <img src="https://img.shields.io/badge/DNSx-DNS%20Resolution-1565C0?style=for-the-badge" alt="DNSX"/>
+  <img src="https://img.shields.io/badge/CertHunt-Certificate%20Recon-263238?style=for-the-badge" alt="CertHunt"/>
+  <img src="https://img.shields.io/badge/Interactsh-OAST%20Testing-6A1B9A?style=for-the-badge" alt="Interactsh"/>
+</p>
+
+### 🕸️ Web Application & API Security
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-Web%20Testing-00549E?style=for-the-badge" alt="OWASP ZAP"/>
+  <img src="https://img.shields.io/badge/SQLmap-SQL%20Injection-333333?style=for-the-badge" alt="SQLmap"/>
+  <img src="https://img.shields.io/badge/FFUF-Fuzzing-5C2D91?style=for-the-badge" alt="FFUF"/>
+  <img src="https://img.shields.io/badge/Gobuster-Discovery-222222?style=for-the-badge" alt="Gobuster"/>
+  <img src="https://img.shields.io/badge/Dirsearch-Content%20Discovery-444444?style=for-the-badge" alt="Dirsearch"/>
+  <img src="https://img.shields.io/badge/Nikto-Web%20Scanner-333333?style=for-the-badge" alt="Nikto"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Wappalyzer-Tech%20Detection-4608AD?style=for-the-badge" alt="Wappalyzer"/>
+</p>
+
+### 🔬 Vulnerability Assessment & Penetration Testing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-Pentesting-2596CD?style=for-the-badge" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Assessment-00A88F?style=for-the-badge" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Acunetix-Web%20Assessment-00549E?style=for-the-badge" alt="Acunetix"/>
+  <img src="https://img.shields.io/badge/Hydra-Authentication%20Testing-333333?style=for-the-badge" alt="Hydra"/>
+  <img src="https://img.shields.io/badge/Enum4linux-Enumeration-333333?style=for-the-badge" alt="Enum4linux"/>
+</p>
+
+### 📱 Mobile Security & Vulnerable Labs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MobSF-Mobile%20Security-4CAF50?style=for-the-badge" alt="MobSF"/>
+  <img src="https://img.shields.io/badge/DVWA-Web%20Security%20Lab-8B0000?style=for-the-badge" alt="DVWA"/>
+  <img src="https://img.shields.io/badge/OWASP%20Juice%20Shop-Practice%20Lab-6A1B9A?style=for-the-badge" alt="OWASP Juice Shop"/>
+  <img src="https://img.shields.io/badge/Metasploitable-Lab%20Environment-8B0000?style=for-the-badge" alt="Metasploitable"/>
+  <img src="https://img.shields.io/badge/VulnHub-Practice%20Machines-333333?style=for-the-badge" alt="VulnHub"/>
+</p>
+
+### 🎯 Security Learning Platforms
+
+<p align="center">
+  <a href="https://portswigger.net/web-security">
+    <img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-FF6633?style=for-the-badge" alt="PortSwigger Web Security Academy"/>
+  </a>
+  <a href="https://tryhackme.com/">
+    <img src="https://img.shields.io/badge/TryHackMe-Cyber%20Labs-C11111?style=for-the-badge" alt="TryHackMe"/>
+  </a>
+  <a href="https://www.hackthebox.com/">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-CTF%20Labs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
+  </a>
+  <a href="https://www.hackerone.com/">
+    <img src="https://img.shields.io/badge/HackerOne-Bug%20Bounty-494649?style=for-the-badge" alt="HackerOne"/>
+  </a>
+  <a href="https://owasp.org/www-project-juice-shop/">
+    <img src="https://img.shields.io/badge/OWASP-Juice%20Shop-000000?style=for-the-badge&logo=owasp" alt="OWASP Juice Shop"/>
+  </a>
+</p>
+
+### 🤖 AI & Emerging Security
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Assisted%20Pentesting-6A1B9A?style=for-the-badge" alt="AI-assisted penetration testing"/>
+  <img src="https://img.shields.io/badge/LLM%20Security-4527A0?style=for-the-badge" alt="LLM Security"/>
+  <img src="https://img.shields.io/badge/AI%20Red%20Teaming-AD1457?style=for-the-badge" alt="AI Red Teaming"/>
+  <img src="https://img.shields.io/badge/Garak-LLM%20Security-263238?style=for-the-badge" alt="Garak"/>
+  <img src="https://img.shields.io/badge/PyRIT-AI%20Security-1565C0?style=for-the-badge" alt="PyRIT"/>
+</p>
+
+## 🏅 Certifications & Training
+
+- **Ostad** — AI-Driven Cyber Security & Ethical Hacking Career Track
+- **Cisco Networking Academy** — Ethical Hacker
+- **Hackviser** — Certified Cybersecurity Foundations
+- **Hackviser** — File Hunter Warmup
 
 ## 🚀 Featured Projects
 
-### 1. Vanguard Bug Bounty Reconnaissance
-
-**Focus:** Attack Surface Discovery · Subdomain Enumeration · Reconnaissance
-
-- Organized reconnaissance results for a bug bounty/VDP scope.
-- Worked with subdomain discovery, live-host identification, and URL collection.
-- Practiced organizing findings for further manual security review.
-
-🔗 **Repository:** [vanguard-bug-bounty-recon](https://github.com/sabbihossen/vanguard-bug-bounty-recon)
-
-> Only publish information permitted by the program's disclosure policy. Do not upload private data, credentials, or out-of-scope information.
-
-### 2. Linux Mastery for AI-Powered Pentesting
-
-**Focus:** Linux · Command Line · Security Tooling
-
-- Practicing Linux commands and security-focused workflows.
-- Organizing learning notes and practical command-line exercises.
-- Exploring how AI can support security learning and testing.
-
-🔗 **Repository:** [linux-mastery-ai-powered-pentesting](https://github.com/sabbihossen/linux-mastery-ai-powered-pentesting)
-
-### 3. Web Security Academy Labs
-
-**Focus:** Web Application Security · Vulnerability Analysis
-
-- Practicing web security concepts in PortSwigger Web Security Academy labs.
-- Studying topics such as SQL injection, cross-site scripting, CSRF, SSRF, authentication, and business logic.
-- Documenting lab methodology and lessons learned.
-
-🔗 **Platform:** [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-
-### 4. API Security & OWASP Juice Shop Practice
-
-**Focus:** API Testing · Endpoint Analysis · Authentication & Authorization
-
-- Exploring API endpoints in an authorized practice environment.
-- Reviewing HTTP methods and request/response behavior.
-- Practicing manual verification using Burp Suite.
-- Studying common API security issues and documenting observations.
-
-🔗 **Practice Application:** [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-
----
-
-## 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,bash&theme=dark" alt="HTML, CSS, JavaScript, PHP, MySQL, Python, Bash" />
+<p align="center">
+  <a href="https://github.com/sabbihossen/vanguard-bug-bounty-recon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbihossen&repo=vanguard-bug-bounty-recon&theme=chartreuse-dark&hide_border=true" alt="Vanguard Recon Project"/>
+  </a>
+  <a href="https://github.com/sabbihossen/linux-mastery-ai-powered-pentesting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbihossen&repo=linux-mastery-ai-powered-pentesting&theme=chartreuse-dark&hide_border=true" alt="Linux Mastery Project"/>
+  </a>
 </p>
-
----
-
-## 🛡️ Security Tools & Technologies
-
-### 🔍 Reconnaissance & Network Security
-
-<p>
-  <img src="https://img.shields.io/badge/Nmap-005571?style=flat-square" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/TCPdump-333333?style=flat-square" alt="TCPdump" />
-  <img src="https://img.shields.io/badge/TShark-1679A7?style=flat-square" alt="TShark" />
-  <img src="https://img.shields.io/badge/Gobuster-222222?style=flat-square" alt="Gobuster" />
-  <img src="https://img.shields.io/badge/FFUF-222222?style=flat-square" alt="FFUF" />
-  <img src="https://img.shields.io/badge/Dirsearch-222222?style=flat-square" alt="Dirsearch" />
-  <img src="https://img.shields.io/badge/Enum4linux-222222?style=flat-square" alt="Enum4linux" />
-</p>
-
-### 🌐 Web & API Security
-
-<p>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/SQLmap-222222?style=flat-square" alt="SQLmap" />
-  <img src="https://img.shields.io/badge/Nikto-222222?style=flat-square" alt="Nikto" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Wappalyzer-4608AD?style=flat-square" alt="Wappalyzer" />
-</p>
-
-### 💥 Vulnerability Assessment & Penetration Testing
-
-<p>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Nessus-00A88F?style=flat-square" alt="Nessus" />
-  <img src="https://img.shields.io/badge/Acunetix-00549E?style=flat-square" alt="Acunetix" />
-  <img src="https://img.shields.io/badge/Hydra-222222?style=flat-square" alt="Hydra" />
-  <img src="https://img.shields.io/badge/MobSF-222222?style=flat-square" alt="MobSF" />
-</p>
-
-### 🤖 AI & LLM Security
-
-<p>
-  <img src="https://img.shields.io/badge/Garak-222222?style=flat-square" alt="Garak" />
-  <img src="https://img.shields.io/badge/PyRIT-222222?style=flat-square" alt="PyRIT" />
-</p>
-
-### 🧪 Labs, CTFs & Practice Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/DVWA-8B0000?style=flat-square" alt="DVWA" />
-  <img src="https://img.shields.io/badge/OWASP_Juice_Shop-4B8BBE?style=flat-square" alt="OWASP Juice Shop" />
-  <img src="https://img.shields.io/badge/Metasploitable-222222?style=flat-square" alt="Metasploitable" />
-  <img src="https://img.shields.io/badge/VulnHub-222222?style=flat-square" alt="VulnHub" />
-  <img src="https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=flat-square" alt="PortSwigger Web Security Academy" />
-  <img src="https://img.shields.io/badge/TryHackMe-C11111?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box" />
-  <img src="https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne" />
-</p>
-
-### 🐧 Operating Systems & Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/WSL-0078D4?style=flat-square&logo=windows&logoColor=white" alt="WSL" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sabbihossen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbihossen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabbihossen&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbihossen&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabbihossen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sabbihossen&theme=chartreuse-dark&hide_border=true" alt="GitHub streak statistics"/>
 </p>
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbihossen&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-## 🎯 Current Learning Goals
-
-- Strengthen web application and API security testing.
-- Improve reconnaissance and attack surface discovery workflows.
-- Practice vulnerability validation and responsible reporting.
-- Build structured, reproducible security project documentation.
-- Continue learning AI-assisted security testing and LLM security.
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/sabbihossen">GitHub</a> •
-  <a href="https://www.linkedin.com/in/sheikh-sabbir-hossain-661157368/">LinkedIn</a> •
-  <a href="https://www.youtube.com/@PatientHacker">YouTube — Patient Hacker</a> •
-  <a href="https://medium.com/@sabbirhossensk10">Medium</a> •
-  <a href="mailto:sabbirhossensk10@gmail.com">Email</a>
+  <a href="https://www.youtube.com/@PatientHacker">
+    <img src="https://img.shields.io/badge/YouTube-Patient%20Hacker-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sheikh-sabbir-hossain-661157368/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sheikh%20Sabbir%20Hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@sabbirhossensk10">
+    <img src="https://img.shields.io/badge/Medium-My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="mailto:sabbirhossensk10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Learn continuously. Test ethically. Document everything. Keep improving."</i>
+  <b>⚡ Learn Continuously • Practice Ethically • Build Securely ⚡</b>
 </p>
 
 <p align="center">
-  <b>⚠️ Ethical Security Disclaimer</b><br />
-  All security testing should be performed only on systems you own or have explicit permission to test. Practice responsibly and follow the applicable scope and disclosure policies.
+  <i>All security testing is performed in authorized environments.</i>
 </p>
