@@ -43,15 +43,25 @@ Learning   : Penetration Testing & Security Research
 - 🤖 Exploring AI-assisted security testing and LLM security.
 - 📚 Sharing cybersecurity learning and projects on GitHub.
 
-## 💻 Programming & Scripting
+## 💻 Programming & Scripting Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,bash" alt="HTML, CSS, JavaScript, PHP, Python, MySQL and Bash"/>
 </p>
 
+### 📊 Current Skill Levels
+
 <p align="center">
-  **HTML** · **CSS** · **JavaScript** · **PHP** · **Python** · **SQL / MySQL** · **Bash / Shell Scripting**
+  <img src="https://img.shields.io/badge/HTML-60%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 60%"/>
+  <img src="https://img.shields.io/badge/CSS-30%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 30%"/>
+  <img src="https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 50%"/>
+  <img src="https://img.shields.io/badge/JavaScript-30%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 30%"/>
+  <img src="https://img.shields.io/badge/PHP-25%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 25%"/>
+  <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-40%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL and MySQL 40%"/>
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-40%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash and Shell Scripting 40%"/>
 </p>
+
+> Skill percentages are self-assessed estimates of current proficiency, not standardized test scores.
 
 ## 🛠️ Security Arsenal
 
